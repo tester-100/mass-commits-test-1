@@ -7,3 +7,6 @@ Here, we will only test empty commits
 ### About the author
 
 این پروژه توسط رایجین هاکوز ایجاد شده است.
+مشارکت کنندگان:
+1. رایجین هاکوز
+2. ریشاب داس
